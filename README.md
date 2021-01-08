@@ -1,4 +1,4 @@
-# Eh-I-Don-t-Know-What-to-Eat
+# Eh You Can Choose
 Random food generator for those girlfriends who can't choose what to eat
 Utilizes text files to generate the choices. 
 I may create a version that searches the web for food options and recipes sometime in the future. 
