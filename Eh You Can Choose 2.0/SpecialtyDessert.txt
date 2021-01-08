@@ -1,0 +1,19 @@
+3
+Dessert
+American
+3.29
+McDonald's
+Fast Food
+Mc Flurry
+Dessert
+Mexican
+1.29
+El Pollo Loco
+Fast Food
+Tastee Freeze Ice Cream
+Dessert
+N/A
+5.29
+Dairy Queen
+Fast Food
+Dilly Bars

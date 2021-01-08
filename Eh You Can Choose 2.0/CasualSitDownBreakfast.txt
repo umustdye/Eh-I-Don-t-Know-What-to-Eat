@@ -1,0 +1,25 @@
+4
+BreakFast
+N/A
+1.25
+McDonald's
+casual
+Egg McMuffin
+BreakFast
+N/A
+2.75
+Del Taco
+casual
+Egg Burrito
+BreakFast
+N/A
+3.25
+Dunkin Donuts
+Casual
+Donut
+BreakFast
+N/A
+4.35
+Yum Yum Donuts
+Casual
+Donut

@@ -1,0 +1,19 @@
+3
+Dinner
+American
+3.29
+McDonald's
+Fast Food
+Big Mac
+Dinner
+Mexican
+1.29
+El Pollo Loco
+Fast Food
+Chicken
+Dinner
+N/A
+5.29
+Del Taco
+Fast Food
+Buritos
